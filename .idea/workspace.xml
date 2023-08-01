@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a19e2c29-1008-4055-8ef3-1c9449875e96" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/_redirects" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/crudreactredux.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/crudreactreduxtoolkit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/404.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Adddata/Adddata.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Adddata/Adddata.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Dashboard/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Dashboard/Dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Updatedata/Updatedata.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Updatedata/Updatedata.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Redux/counterSlice.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/counterSlice.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2SpobCosV42Kgoq9hv4H7RTRCx6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crudreactreduxthunk" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Ronak\React\crudreactredux\src\Components\Adddata" />
+      <recent name="E:\Ronak\React\crudreactredux\src\Components\Dashboard" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a19e2c29-1008-4055-8ef3-1c9449875e96" name="Default Changelist" comment="" />
+      <created>1689852952212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689852952212</updated>
+      <workItem from="1689852953295" duration="6485000" />
+      <workItem from="1689913004199" duration="29082000" />
+      <workItem from="1690000232589" duration="10363000" />
+      <workItem from="1690019455099" duration="4000" />
+      <workItem from="1690194823884" duration="9952000" />
+      <workItem from="1690260117042" duration="28423000" />
+      <workItem from="1690345218658" duration="13766000" />
+      <workItem from="1690361770418" duration="14405000" />
+      <workItem from="1690431527463" duration="1396000" />
+      <workItem from="1690434294680" duration="319000" />
+      <workItem from="1690435627295" duration="20352000" />
+      <workItem from="1690517898723" duration="681000" />
+      <workItem from="1690528460927" duration="19527000" />
+      <workItem from="1690777613247" duration="1625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$USER_HOME$/Desktop/Nidhi/React_DashBoardTask/node_modules/tailwindcss/stubs/tailwind.config.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
